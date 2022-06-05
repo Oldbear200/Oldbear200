@@ -19,4 +19,3 @@ Hello I am a helper at New Time Development and I'm not good at programming. But
 #### Ending
 Yeah I stole the idea for my Redme.md file from Sage [(his GitHub site)](https://github.com/sagesphinx63920) pls don't blame me.
 
-[<img src="https://cdn.discordapp.com/attachments/940652719784484944/979477237919260692/unknown.png" alt="DcBanner" width="338" height="115" />](https://sagesphinx63920.dev/discord) 
